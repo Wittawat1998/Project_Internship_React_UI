@@ -1,0 +1,75 @@
+.Showgraph-background {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: contents;
+  font-size: calc(10px + 2vmin);
+}
+
+.Showgraph-namegraph {
+
+    font-size: calc(10px + 1vmin);
+  }
+.Showgraph-card {
+    background-color: #FAFAFA;
+    display:contents;
+    align-items: left;
+    justify-content: left;
+
+  }
+.Showgraph-cardhead {
+  background-color:   #DFE3EE;
+  display: contents;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  }
+.Showgraph-date {
+  background-color: #FAFAFA;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  }
+  .Show-card {
+    background-color: #FAFAFA;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+
+  }
+  .Showgraph-chart {
+    display: flex;
+    font-size: calc(10px + 2vmin);
+    color: black;
+  }
+  .Showgraph-text {
+    color: rgb(0, 0, 0);
+  }
+.div-graph{
+  background-color: #ffffff;
+}
+  .title-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 150%;
+    font-family:"Copperplate",sans-serif;
+    color: rgb(0, 0, 0);
+  }
+@keyframes boxyRotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.DataBydate-background {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+}
+.Showgraph-table {
+  background-color: #ffffff;
+  color: black;
+}
